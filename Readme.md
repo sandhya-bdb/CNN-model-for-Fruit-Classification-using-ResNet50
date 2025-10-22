@@ -7,14 +7,16 @@ This app let's you drag and drop an image of a fruit and it will tell you whethe
 
 ### Model Details
 1. Used ResNet50 for transfer learning
-2. Model was trained on around 1700 images with 6 target classes
-   1. Front Normal
-   1. Front Crushed
-   1. Front Breakage
-   1. Rear Normal
-   1. Rear Crushed
-   1. Rear Breakage
-9. The accuracy on the validation set was around 80%
+2. Model was trained on around 16000 images with 16 target classes with the following fruit classes:
+   1. Banana
+   2. Lemon
+   3. Lulo
+   4. Mango
+   5. Orange
+   6. Strawberry
+   7. Tamarillo
+   8. Tomato
+ The accuracy on the validation set was above 90%
 
 ### Set Up
 
