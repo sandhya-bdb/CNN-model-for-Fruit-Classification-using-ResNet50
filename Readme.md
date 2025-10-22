@@ -16,7 +16,8 @@ This app let's you drag and drop an image of a fruit and it will tell you whethe
    6. Strawberry
    7. Tamarillo
    8. Tomato
- The accuracy on the validation set was above 90%
+
+ 3. The accuracy on the validation set was above 90%
 
 ### Set Up
 
