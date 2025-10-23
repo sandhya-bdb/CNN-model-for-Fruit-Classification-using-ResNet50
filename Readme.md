@@ -1,4 +1,4 @@
-# Fruit Classification App
+# Fruit Freshness Detection using CNN architecture with ResNet50
 
 This app let's you drag and drop an image of a fruit and it will tell you whether it is Fresh or Spoiled.It is an AI-powered system that is integrated
 into the warehouse’s conveyor belt infrastructure. The proposed system will include high-speed cameras positioned to capture images of fruit crates as they move along the
